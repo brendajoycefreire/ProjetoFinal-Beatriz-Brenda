@@ -36,4 +36,7 @@ Este projeto apresenta o tratamento e limpeza de dados da base intitulada "impac
    - O código inclui impressões que resumem as descobertas principais, como a prevalência do trabalho remoto e os altos níveis de estresse e condições de saúde mental como burnout e ansiedade, a partir disso, faremos uma análise estudando a relação da saúde mental desses colaboradores com a modalidade a qual eles trabalham.
 
 
+**O restante das análises foi feita via Dashboard com o Tableau:**
+https://public.tableau.com/app/profile/brenda.costa1015/viz/ProjetoFinal-BeatrizBrenda/CondiesMntais2#1
+
 
